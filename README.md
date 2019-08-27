@@ -1,5 +1,5 @@
 # Predict_Loan_Approval
-Identify the customers segments that are eligible for loan amount so that the bank can specifically target these customers
+From the challange hosted at: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 ## Problem Statement
 ### About Company
 Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
